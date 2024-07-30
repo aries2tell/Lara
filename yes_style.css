@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgb(225, 122, 192);
+    background-color: rgba(255,7,58,1.00);
     margin: 0;
     font-family: 'Nunito', sans-serif;
 }
@@ -27,13 +27,13 @@ body {
 ul#socialMediaLinks {
     list-style-type: none;
     padding: 0;
-    font-size: 20px; /* Adjusted font size */
+    font-size: 100px; /* Adjusted font size */
     text-align: center;
     margin: 20px 0 0 0;
 }
 
 ul#socialMediaLinks li {
-    margin: 10px 0;
+    margin: 50px 0;
 }
 
 ul#socialMediaLinks a {
@@ -42,5 +42,5 @@ ul#socialMediaLinks a {
 }
 
 ul#socialMediaLinks a:hover {
-    color: yellow;
+    color: rgb(252, 252, 247);
 }
