@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 90vh;
-    background-color: rgb(246, 33, 246);
+    background-color: rgba(255,7,58,1.00);
 }
 
 #noButton {
